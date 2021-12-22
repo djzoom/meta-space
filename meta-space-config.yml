@@ -1,0 +1,36 @@
+user:
+  username: ""
+  nickname: 加菲众
+site:
+  title: 加菲众
+  subtitle: 加菲众
+  description: 加菲众
+  author: 加菲众
+  keywords:
+    - 加菲众
+  favicon: https://storageapi.fleek.co/casimir-crystal-team-bucket/metanetwork/users/metaio-storage/aa.png
+  avatar: https://storageapi.fleek.co/casimir-crystal-team-bucket/metanetwork/users/0/截屏2021-07-22
+    下午3.02.13.png
+  configId: 60
+  language: zh
+  timezone: Asia/Shanghai
+  domain: jfz.metaspaces.life
+  metaSpacePrefix: jfz
+theme:
+  isPackage: true
+  id: 8
+  createdAt: 2021-10-11T01:11:37.506Z
+  updatedAt: 2021-10-11T01:11:58.197Z
+  themeName: aurora
+  themeRepo: https://github.com/auroral-ui/hexo-theme-aurora
+  themeBranch: main
+  themeType: HEXO
+gateway:
+  ipfs:
+    baseUrl: https://ipfs.fleek.co/ipfs/
+  dataViewer:
+    baseUrl: https://meta-network-data-viewer.vercel.app/
+metadata:
+  authorPublishMetaSpaceServerVerificationMetadata:
+    storageType: ipfs
+    refer: bafybeies2lboitj5vmfbhjqj6qttx3e5k7dtidxjakpjbwptvbfvflnyhe
